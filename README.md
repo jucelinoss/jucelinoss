@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">Hi, I'm Jucelino from São Paulo, Brazil 🇧🇷<br><br>🔭 I’m currently working as a Business Intelligence Analyst<br><br>📚 I’m learning Data Engineering<br><br>⚡ In my free time, I study, ride my bike, and go to the gym</p>
+<p align="left">Hi, I'm Jucelino from São Paulo, Brazil 🇧🇷<br><br>🔭 I’m currently working as a ETL / Business Intelligence Analyst<br><br>📚 I’m learning Data Engineering<br><br>⚡ In my free time, I study, ride my bike, and go to the gym</p>
 
 ###
 
